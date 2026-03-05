@@ -75,6 +75,8 @@ Main contract (`contracts/FuturesMarginPoolClassics.sol`) - a margin pool for fu
 - **OpenZeppelin 3.4.1**: SafeERC20, SafeMath, ReentrancyGuard, Pausable (legacy version for Solidity 0.6.12)
 - **LayerZero v2, Stargate v2, Aave v3**: Available in dependencies for future cross-chain features
 
+> **Note:** The v2 (Foundry-based UserVault) codebase lives on the `v2` branch of this repository.
+
 ### Network Configuration
 
 Networks in `hardhat.config.js`:
