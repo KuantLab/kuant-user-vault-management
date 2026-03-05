@@ -1,0 +1,9 @@
+{
+  "FuturesMarginPoolModule": {
+    "withdrawAdmin": "0xYOUR_WITHDRAW_ADMIN_ADDRESS",
+    "admin": "0xYOUR_ADMIN_ADDRESS",
+    "vaults": "0xYOUR_VAULTS_ADDRESS",
+    "feeAddress": "0xYOUR_FEE_ADDRESS",
+    "marginCoinAddress": "0x55d398326f99059fF775485246999027B3197955"
+  }
+}
